@@ -13,8 +13,8 @@ Currently I am open to any opportunity especially in IT as a Full Stack Develope
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 🔭 I’m currently working on Google </br>
+    - 🌱 I’m currently learning SwiftUI, UIKit & Flutter </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
@@ -25,7 +25,7 @@ Currently I am open to any opportunity especially in IT as a Full Stack Develope
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=reporandi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reporandi&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reporandi&layout=compact" height=150 />
 </p>
 
 ### Let's connect!
