@@ -12,7 +12,7 @@ Currently I am open to any opportunity especially in IT as a Full Stack Develope
 
 ### Stats:
 <details>
-What i am learning/working on these days</strong></summary>
+ <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
     - 🌱 I’m currently learning SwiftUI and UIKit </br>
     - 👯 I’m looking to collaborate on ... </br>
