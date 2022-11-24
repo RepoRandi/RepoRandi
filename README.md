@@ -32,8 +32,8 @@ Currently I am open to any opportunity especially in IT as a Full Stack Develope
     <a href="https://reporandi.id" target="blank"><img src="https://img.shields.io/badge/Website-https://reporandi.id-green?" /></a>
     <a href="http://linkedin.com/in/randi-maulana-akbar" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@reporandi" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=medium" /></a>
-    <a href="https://https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/@Randi-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://https://twitter.com/Randev99" target="blank"><img src="https://img.shields.io/badge/@Randi-30302f?style=flat&logo=twitter" /></a>
+    <a href="paypal.me/RandiMaulanaAkbar" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
