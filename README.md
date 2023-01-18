@@ -1,5 +1,10 @@
 # Hi there 👋 , I'm Randi!
-Currently I am open to any opportunity especially in IT as a Full Stack Developer. 
+
+I am a Flutter developer with experience in building high-performance, visually-appealing mobile applications. I have a strong background in object-oriented programming and experience with popular libraries and frameworks such as Flutter, Dart, Firebase, and BLoC. I am also well-versed in Git and Agile development methodologies. I am constantly learning new technologies and best practices to stay up-to-date in the ever-evolving world of software development.
+
+#
+
+<a href=#><img src="contributions.svg"></a>
 
 ### Tools:
 <p>
@@ -28,19 +33,9 @@ Currently I am open to any opportunity especially in IT as a Full Stack Develope
     <a href="https://medium.com/@reporandi" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/Randev99" target="blank"><img src="https://img.shields.io/badge/@Randi-30302f?style=flat&logo=twitter" /></a>
     <a href="paypal.me/RandiMaulanaAkbar" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+</p><br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
-
-<!--
-**reporandi/reporandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
