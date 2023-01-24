@@ -84,13 +84,9 @@ I am a Flutter developer with experience in building high-performance, visually-
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h3> <strong> 🤙 Let's connect! </strong><img src="./assets/borderseparator.gif"/></h3>
+<h3><strong> 👀 Visitor count </strong><img src="./assets/borderseparator.gif"/></h3>
  <p>  
-    <a href="https://reporandi.id" target="blank"><img src="https://img.shields.io/badge/Website-https://reporandi.id-green?" /></a>
-    <a href="http://linkedin.com/in/randi-maulana-akbar" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=linkedin"     /></a>
-    <a href="https://medium.com/@reporandi" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=medium" /></a>
-    <a href="https://twitter.com/Randev99" target="blank"><img src="https://img.shields.io/badge/@Randi-30302f?style=flat&logo=twitter" /></a>
-    <a href="paypal.me/RandiMaulanaAkbar" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
  </p>   
 </div>
  
@@ -101,9 +97,13 @@ I am a Flutter developer with experience in building high-performance, visually-
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h3><strong> 👀 Visitor count </strong><img src="./assets/borderseparator.gif"/></h3>
+<h3> <strong> 🤙 Let's connect! </strong><img src="./assets/borderseparator.gif"/></h3>
  <p>  
-   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+    <a href="https://reporandi.id" target="blank"><img src="https://img.shields.io/badge/Website-https://reporandi.id-green?" /></a>
+    <a href="http://linkedin.com/in/randi-maulana-akbar" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=linkedin"     /></a>
+    <a href="https://medium.com/@reporandi" target="blank"><img src="https://img.shields.io/badge/Randi-30302f?style=flat&logo=medium" /></a>
+    <a href="https://twitter.com/Randev99" target="blank"><img src="https://img.shields.io/badge/@Randi-30302f?style=flat&logo=twitter" /></a>
+    <a href="paypal.me/RandiMaulanaAkbar" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
  </p>   
 </div>
  
