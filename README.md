@@ -49,6 +49,7 @@ I am a Flutter developer with experience in building high-performance, visually-
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div>
+</br>
 
 <div align="center">
   <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" /><br>
