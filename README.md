@@ -17,8 +17,10 @@ I am a Flutter developer with experience in building high-performance, visually-
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
 
 <div align="center">
   <h3> <strong> 🛠 Tools </strong> <img src="./assets/borderseparator.gif"/> </h3><br>
@@ -32,8 +34,10 @@ I am a Flutter developer with experience in building high-performance, visually-
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
 
 <div align="center">
   <h3> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h3><br>
@@ -53,14 +57,16 @@ I am a Flutter developer with experience in building high-performance, visually-
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
   
 <div align="center">
   <h3> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h3><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=RepoRandi&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="100%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=RepoRandi&theme=radical&show_icons=true&count_private=true" height="100%" alt="stats graph" />
 </div><br>
 
 ![Randi Maulana Akbar's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=Randi%20Maulana%20Akbar's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
@@ -68,20 +74,24 @@ I am a Flutter developer with experience in building high-performance, visually-
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
   
 <div align="center">
   <h3> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h3><br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=RepoRandi&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=RepoRandi&theme=radical&langs_count=10&card_width=500&layout=compact" height="400" alt="Most used languages">
 </div>
   
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
 
 <div align="center">
 <h3><strong> 👀 Visitor count </strong><img src="./assets/borderseparator.gif"/></h3>
@@ -93,8 +103,10 @@ I am a Flutter developer with experience in building high-performance, visually-
 #
 </br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+</p>
 
 <div align="center">
 <h3> <strong> 🤙 Let's connect! </strong><img src="./assets/borderseparator.gif"/></h3>
