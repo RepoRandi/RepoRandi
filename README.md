@@ -66,8 +66,8 @@ I am a Flutter developer with experience in building high-performance, visually-
 <div align="center">
   <h3> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h3><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="100%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=RepoRandi&theme=radical&show_icons=true&count_private=true" height="100%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="100%" width="50%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=RepoRandi&theme=radical&show_icons=true&count_private=true" height="100%" width="50%" alt="stats graph" />
 </div><br>
 
 ![Randi Maulana Akbar's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=Randi%20Maulana%20Akbar's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
